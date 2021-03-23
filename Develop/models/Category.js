@@ -24,7 +24,7 @@ Category.init(   ///define all columns exactly as laid out in assignment directi
     timestamps: false,
     freezeTableName: true,
     underscored: true,
-    modelName: 'category',
+    modelName: 'Category',
   }
 );
 
