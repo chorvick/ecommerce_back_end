@@ -54,6 +54,11 @@ router.post('/', async (req, res) => {
 
 router.put('/:id', async (req, res) => {
   // update a tag's name by its `id` value
+  ///  NOTE this does not appear to work properly
+  /// will continue testing but as of now all other routes in this file work
+  /// except for this one
+
+
   Tag.update(
     {
       tag_name: req.body.tag_name,
