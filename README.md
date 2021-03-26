@@ -8,7 +8,7 @@ This is a working back end of a retail E-comerce website.
 
 See video demo part one [HERE](https://drive.google.com/file/d/1PG5tbuJQ7Wqphuh14F_btbWBXdGyt0AV/view?usp=sharing)
 See video demo part two [HERE](https://drive.google.com/file/d/1DhJ3Uo_9UR90yNGaHMuU1sb46k_Loc5T/view?usp=sharing)
-See video demo part two [HERE](https://drive.google.com/file/d/1tvzxREZv2w71teMbTyzfV3mHeI_KGmnn/view?usp=sharing)
+See video demo part three [HERE](https://drive.google.com/file/d/1tvzxREZv2w71teMbTyzfV3mHeI_KGmnn/view?usp=sharing)
 
 ## Table of Contents
 
